@@ -1,4 +1,4 @@
-Django==2.2.2
+Django==2.2.22
 django-neomodel==0.0.4
 djangorestframework==3.7.7
 neo4j==1.7.4
